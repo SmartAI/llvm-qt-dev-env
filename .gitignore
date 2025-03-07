@@ -1,0 +1,19 @@
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Build outputs
+build/
+dist/
+*.o
+*.obj
+
+# Local environment
+.env
+.env.local
+
+# Logs
+*.log 
