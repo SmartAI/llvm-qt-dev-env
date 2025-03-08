@@ -64,6 +64,5 @@ The image provides the following environment variables:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Acknowledgements
+Thanks to Professor Michael Adams, he built the [clang 20 image](https://github.com/users/mdadams/packages/container/package/clang_libs-ubuntu_24-llvm_20). 
