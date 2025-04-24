@@ -19,6 +19,7 @@ RUN apt-get update && \
     libgmock-dev \
     doxygen \
     graphviz \
+    catch2\
     python3-pip \
     && apt-get clean && \
     rm -rf /var/lib/apt/lists/*
